@@ -4,6 +4,7 @@
 
 int main(int argc, char const *argv[])
 {
+    // Render window
     sf::RenderWindow window(sf::VideoMode(800, 600), "Pong Game");
 
     // define game components
